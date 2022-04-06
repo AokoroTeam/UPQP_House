@@ -9,8 +9,73 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capture_d__cran_2022_04_05_115453
+    second: {fileID: 2100000, guid: a38cc86ed285eaa45a15d3b29e43a016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cladding_Stucco_Tan
+    second: {fileID: 2100000, guid: 76ae52b01f1c585479ff0ccab2058cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 547a26c5e2fd43440a4d365d7efc486e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_30_polished_brushed_brass_texture_hr2
+    second: {fileID: 2100000, guid: 325e6877422589f4fb44cad200a7dbae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapis2
+    second: {fileID: 2100000, guid: 0e7c3aa4ae5eea24bb7b52f9f2fe9a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapis2_1
+    second: {fileID: 2100000, guid: 4421015f664afa044938949095142b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapis2_2
+    second: {fileID: 2100000, guid: fa222b3487e5a3b46b206c2b8f3cddd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Gray
+    second: {fileID: 2100000, guid: 3680a4c4dd90ebb42894c2dddbf4c08b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: 21e1d4f6f854a3342928a58e2e61c55f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: e8b31c61c00c48d4ab5321fa99f61116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric1
+    second: {fileID: 2100000, guid: 2bbbfe47b70cbc04a937874338bb3b06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric2
+    second: {fileID: 2100000, guid: 74352a116b4bcee4b8e56cd9b806df27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silver_texture_seamless_pattern_vector_10370368
+    second: {fileID: 2100000, guid: 6d78aadc23561a1488cc6a990900d676, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -74,7 +139,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0

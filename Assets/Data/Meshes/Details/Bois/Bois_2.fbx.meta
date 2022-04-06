@@ -9,25 +9,10 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bark_Maple2
-    second: {fileID: 2100000, guid: 66ff24c4bdc6bcb4d8d0ba8315c180e9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood_1
-    second: {fileID: 2100000, guid: b56f0d88277f8ea42a367553d4c2b0a4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood_2
-    second: {fileID: 2100000, guid: 91978452e413a2a40b6200473a6def11, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 0
     materialName: 0
-    materialSearch: 2
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4

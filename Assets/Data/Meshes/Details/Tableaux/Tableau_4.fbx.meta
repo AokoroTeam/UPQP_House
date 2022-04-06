@@ -9,23 +9,8 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tableau_Art_3
-    second: {fileID: 2100000, guid: be67864d711e6a7489fa4f4f400eea70, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tableau_Blanc
-    second: {fileID: 2100000, guid: c41cfa2ed98057c49aeccef39f526bb8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tableau_Bordure
-    second: {fileID: 2100000, guid: 5fa28161194bdb145a912893bed96a7d, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
