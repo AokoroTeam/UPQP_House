@@ -9,11 +9,101 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_000
+    second: {fileID: 2100000, guid: c41cfa2ed98057c49aeccef39f526bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_007
+    second: {fileID: 2100000, guid: 5fa28161194bdb145a912893bed96a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: b2deb7f14e6749948bc984de11114b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Image2_extractedTex6374
+    second: {fileID: 2100000, guid: 97218260aa929564e94a21eefaea9b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Image3_extractedTex8136
+    second: {fileID: 2100000, guid: be67864d711e6a7489fa4f4f400eea70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Image4_extractedTex2184
+    second: {fileID: 2100000, guid: 5e1857edd4020e14fa8115e7d2de50b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Image5_extractedTex5343
+    second: {fileID: 2100000, guid: 295ad3cdfaa1f8a46b47e51110e70622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materialasdfasfasfasfasfasw
+    second: {fileID: 2100000, guid: ce03e176412b1f844bfeea5a1addcaba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materialsadfasfasfafwd
+    second: {fileID: 2100000, guid: da96d39a586f14f49b3f7ae294c0609c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TheFrame_001_Front_Black___Cropped
+    second: {fileID: 2100000, guid: 975d7a9263fdb724a8cb6a3e58db29cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vegetation_Bark_Maple2
+    second: {fileID: 2100000, guid: 66ff24c4bdc6bcb4d8d0ba8315c180e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: 207e985db59812a479694266b7ff2a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _10
+    second: {fileID: 2100000, guid: 91978452e413a2a40b6200473a6def11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2100000, guid: b56f0d88277f8ea42a367553d4c2b0a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_M08_1
+    second: {fileID: 2100000, guid: d2d1267efbca50e4bae6545e411e41d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eameshousafsafasfasdf0as1f5w
+    second: {fileID: 2100000, guid: 8e07439110fd6cc45990202ab0c4eba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: il_570xN_876616258_qdfx
+    second: {fileID: 2100000, guid: 1c5e3574f8105be418f40f40ae595e1c, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 2
     materialName: 0
-    materialSearch: 1
-    materialLocation: 1
+    materialSearch: 2
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
