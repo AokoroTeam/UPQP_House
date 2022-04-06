@@ -7,10 +7,85 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Aircondition
-    second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+      name: Capture_d__cran_2022_04_05_132114
+    second: {fileID: 2100000, guid: c53e433edd3647041bc5c3c069497910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 22df8b45468ce144aa418e23d8f0c49e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0045_Goldenrod
+    second: {fileID: 2100000, guid: 89e56e41496ba72448a3af1ba0830d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0049_Beige
+    second: {fileID: 2100000, guid: 41b7ef7c649f4a2468f5f0fe45d4874f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0072_DarkSeaGreen
+    second: {fileID: 2100000, guid: 8b65b83bbba6e0548af122578204237a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0078_DarkSlateGray
+    second: {fileID: 2100000, guid: 8e3c58ee3182a2344b065a346b2c0c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0100_SteelBlue
+    second: {fileID: 2100000, guid: c8b51a17759ef014e877acdd7c2babb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_190272454852a9e51e41f537d6b6b802
+    second: {fileID: 2100000, guid: 3a5afb2d469eff148b767261b52bfd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2sfafwwwew
+    second: {fileID: 2100000, guid: d961a44035bf4e14a94709dd6dd0b71b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Grooved
+    second: {fileID: 2100000, guid: a8612a56b17ffd3409f25b2eef71bb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Brown
+    second: {fileID: 2100000, guid: 2ad8246296c1fd4428b6fbbbd4bbdcfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __RAL_1013_Oyster_white
+    second: {fileID: 2100000, guid: 982ab3dc29e166643bde823c9562b72b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_3
+    second: {fileID: 2100000, guid: 0ac4274115a30f9449a0e32a85105990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_4
+    second: {fileID: 2100000, guid: 05a87b8c6502b30429e56817c7bed670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silver_texture_seamless_pattern_vector_10370368
+    second: {fileID: 2100000, guid: cda828f9f4b1254419429568b1c7909f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitre
+    second: {fileID: 2100000, guid: 2dffd8327def9424a9dbde83aeeec36e, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
