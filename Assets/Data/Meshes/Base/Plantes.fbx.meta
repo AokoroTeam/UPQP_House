@@ -7,8 +7,73 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: AM124_091_v1_02
+    second: {fileID: 2100000, guid: 85ad28b795a71d5418179aeb68c65fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colore_005
+    second: {fileID: 2100000, guid: b41e90d4c7bb2c347b17128937af414e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colore_A06
+    second: {fileID: 2100000, guid: 8fc874b6f56df554e8f0e8e082a30ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: e598495da88df034882f648ac69af787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lustre___Cristais
+    second: {fileID: 2100000, guid: e6422d8558374a1489bb64760003e3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tan_Pampas_Grass_copy
+    second: {fileID: 2100000, guid: 8ee028256388ea14bb93f2a9072ae452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Blue
+    second: {fileID: 2100000, guid: 2e6cb18079541f34bab853ce30a2b57c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: 9e2ed677b2123984a978b0938442afad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _HASTE___juliaaires_3d
+    second: {fileID: 2100000, guid: 7b0e70d5b8a84a345b5d0e2a74801b4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _PENUGEM___juliaaires_3d
+    second: {fileID: 2100000, guid: 478c16595c648244c95aaa43afcccbaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binh_hoa_branch
+    second: {fileID: 2100000, guid: cecbbfe18ab44b14580d99d59435a390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binh_hoa_leaves2
+    second: {fileID: 2100000, guid: bf496036ff347334681bc6460906c0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binh_hoa_twigs
+    second: {fileID: 2100000, guid: d6e9cb552faa93342bcffa58a4151308, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

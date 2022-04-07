@@ -9,8 +9,33 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial
+    second: {fileID: 2100000, guid: 05a87b8c6502b30429e56817c7bed670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 22df8b45468ce144aa418e23d8f0c49e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0050_LemonChiffon
+    second: {fileID: 2100000, guid: cb4dcf407fa969e48a2d42bb04e08bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_00_CAUCIUC
+    second: {fileID: 2100000, guid: 4c8fe8a33947b434b83aa855b8b201d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0136_Charcoal
+    second: {fileID: 2100000, guid: e55c91aad6179a94fb9f64892d79f01c, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
