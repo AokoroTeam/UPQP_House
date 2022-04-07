@@ -9,6 +9,36 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0037_SandyBrown
+    second: {fileID: 2100000, guid: 0d0590cbdb386d140add8d3eccdb648a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0046_Gold
+    second: {fileID: 2100000, guid: 05a87b8c6502b30429e56817c7bed670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0078_DarkSlateGray
+    second: {fileID: 2100000, guid: ee87c15e0cd9b5f49b480de120c626da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0103_Blue
+    second: {fileID: 2100000, guid: cb3093cfb4f997141bd466e62499fcc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_190272454852a9e51e41f537d6b6b802
+    second: {fileID: 2100000, guid: 83e847c4fbea38e48b4fb5a146e3092e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silver_texture_seamless_pattern_vector_10370368
+    second: {fileID: 2100000, guid: 3b4712cf146211540b155ee54891bfa2, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
