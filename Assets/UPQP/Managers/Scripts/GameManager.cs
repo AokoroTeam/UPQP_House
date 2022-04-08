@@ -29,7 +29,7 @@ namespace UPQP.Managers
 
         private void Start()
         {
-            //OnFocusLost();
+            OnFocusLost();
         }
 
 
