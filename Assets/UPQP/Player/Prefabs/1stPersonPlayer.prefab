@@ -36,6 +36,14 @@ PrefabInstance:
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_VerticalAxis.Value
+      value: 55.081905
+      objectReference: {fileID: 0}
+    - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_HorizontalAxis.Value
+      value: -11.019455
+      objectReference: {fileID: 0}
+    - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_VerticalAxis.m_MaxSpeed
       value: 0.03
       objectReference: {fileID: 0}
@@ -55,6 +63,14 @@ PrefabInstance:
       propertyPath: m_HorizontalAxis.m_SpeedMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_VerticalAxis.m_InputAxisValue
+      value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_HorizontalAxis.m_InputAxisValue
+      value: -2
+      objectReference: {fileID: 0}
     - target: {fileID: 819279860, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
       value: 7
@@ -69,7 +85,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.010269185
+      value: 0.010269165
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -77,31 +93,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.03239665
+      value: 0.032396317
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.8825841
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0.46024624
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.08513441
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0.044395536
       objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_LookAt
+      value: 
+      objectReference: {fileID: 3710249244601593149}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Lens.FieldOfView
       value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 0.70462966
+      value: 1.5046469
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 6607877274012187161}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCameraLive
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UPQP.Player.CameraManagement.FirstPersonCameraController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 2055408090, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
@@ -2074,3 +2122,8 @@ MonoBehaviour:
   ZAxis: {fileID: 0}
   verticalSpeed: 1
   horizontalSpeed: 1
+--- !u!4 &3710249244601593149 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22734087555316767, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+  m_PrefabInstance: {fileID: 3687797800288211234}
+  m_PrefabAsset: {fileID: 0}
