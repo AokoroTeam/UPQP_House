@@ -91,10 +91,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9108935626157989392, guid: 2de9f8c53c57cab478ca6b626f418dc4, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: e8b31c61c00c48d4ab5321fa99f61116, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2de9f8c53c57cab478ca6b626f418dc4, type: 3}
 --- !u!4 &8436467302559330255 stripped
@@ -297,7 +293,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6917138371336222946, guid: 11b86fc8262c59b49acd036ca6085e28, type: 3}
       propertyPath: m_Name
-      value: LowPolySofa
+      value: Sofa
       objectReference: {fileID: 0}
     - target: {fileID: 8841290751546876722, guid: 11b86fc8262c59b49acd036ca6085e28, type: 3}
       propertyPath: m_RootOrder

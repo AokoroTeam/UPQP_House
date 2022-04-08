@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3009d85d7527342488fd70a85dd04fb1
+guid: b57d3900624961d4da20d5aa414a96c4
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -42,7 +42,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 3
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 0
@@ -73,13 +73,13 @@ ModelImporter:
     secondaryUVPackMargin: 40
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 127
+    normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
-    normalSmoothingSource: 2
+    normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 0
   humanDescription:

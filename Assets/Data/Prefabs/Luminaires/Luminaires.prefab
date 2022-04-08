@@ -9,12 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8238134790219207614}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Luminaires
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8238134790219207614
 Transform:
@@ -23,7 +23,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8725842325952907524}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -42,6 +42,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8238134790219207614}
     m_Modifications:
+    - target: {fileID: 102771521933138097, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1990829131123162394, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -86,9 +90,37 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4575522151137267640, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4782166568488532275, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6113679178094986197, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
       propertyPath: m_Name
       value: Ceilling_Lights
+      objectReference: {fileID: 0}
+    - target: {fileID: 6113679178094986197, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6274466966527552840, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7129224566955402163, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7591308493185275251, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8697625559317727239, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f2c196b767fbc74891bfbd901a19e0e, type: 3}
@@ -104,6 +136,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8238134790219207614}
     m_Modifications:
+    - target: {fileID: 372038024527839976, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1875945654001482340, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -148,9 +184,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1908593699938803791, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115982396558438246, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7978242480651226715, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
       propertyPath: m_Name
       value: Wall_Light_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7978242480651226715, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
@@ -166,6 +214,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8238134790219207614}
     m_Modifications:
+    - target: {fileID: 372038024527839976, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1875945654001482340, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -210,9 +262,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1908593699938803791, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115982396558438246, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7978242480651226715, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
       propertyPath: m_Name
       value: Wall_Light_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7978242480651226715, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
@@ -228,6 +292,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8238134790219207614}
     m_Modifications:
+    - target: {fileID: 372038024527839976, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1875945654001482340, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -272,9 +340,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1908593699938803791, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115982396558438246, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7978242480651226715, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
       propertyPath: m_Name
       value: Wall_Light_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7978242480651226715, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bfb7adf5f2339249b04ee48e30e202b, type: 3}

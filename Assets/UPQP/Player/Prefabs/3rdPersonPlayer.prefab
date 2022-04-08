@@ -825,7 +825,7 @@ MonoBehaviour:
   _rotationMode: 2
   _rotationRate: 300
   _defaultMovementMode: 1
-  _maxWalkSpeed: 1.5
+  _maxWalkSpeed: 1
   _minAnalogWalkSpeed: 0
   _maxAcceleration: 20
   _brakingDecelerationWalking: 20
@@ -890,10 +890,10 @@ MonoBehaviour:
   _radius: 0.5
   _height: 2
   _slopeLimit: 45
-  _stepOffset: 0.45
+  _stepOffset: 0.25
   _perchOffset: 0.5
   _perchAdditionalHeight: 0.4
-  _slopeLimitOverride: 0
+  _slopeLimitOverride: 1
   _useFlatBaseForGroundChecks: 1
   _collisionLayers:
     serializedVersion: 2

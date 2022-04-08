@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 8686029898235190477}
   - component: {fileID: 2218409231499481442}
   - component: {fileID: 1028796000979597064}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8686029898235190477
 Transform:
@@ -94,12 +94,13 @@ GameObject:
   - component: {fileID: 7401580494981950220}
   - component: {fileID: 5843536703797912745}
   - component: {fileID: 8573902484639322211}
-  m_Layer: 0
+  - component: {fileID: 9024214477909119049}
+  m_Layer: 3
   m_Name: Door_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7401580494981950220
 Transform:
@@ -108,7 +109,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7925317824164901302}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.2564018, y: 1.2147969, z: 0.6802404}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
@@ -167,3 +168,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &9024214477909119049
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925317824164901302}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.047843717, y: 2.3840535, z: 0.7893833}
+  m_Center: {x: 0, y: 0, z: 0.000000044703484}

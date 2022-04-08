@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3909461102465460034}
   - component: {fileID: 3909461102465460035}
   - component: {fileID: 3909461102465460032}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tapis
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 3981154508839784640}
   - component: {fileID: 3501945617455755890}
   - component: {fileID: 9108935626157989392}
-  m_Layer: 0
+  - component: {fileID: 3449345495986964618}
+  m_Layer: 3
   m_Name: "Poele_\xE0_bois"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 21e1d4f6f854a3342928a58e2e61c55f, type: 2}
+  - {fileID: 2100000, guid: e8b31c61c00c48d4ab5321fa99f61116, type: 2}
   - {fileID: 2100000, guid: e8b31c61c00c48d4ab5321fa99f61116, type: 2}
   - {fileID: 2100000, guid: 76ae52b01f1c585479ff0ccab2058cb3, type: 2}
   m_StaticBatchInfo:
@@ -86,6 +87,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3449345495986964618
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1676380004144196201}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -136862235242701672, guid: 84607961acd4b6647a2cf931be29ae2b, type: 3}
 --- !u!1 &1914310195676801857
 GameObject:
   m_ObjectHideFlags: 0
@@ -97,7 +112,7 @@ GameObject:
   - component: {fileID: 1914310195676801856}
   - component: {fileID: 1914310195676801917}
   - component: {fileID: 1914310195676801918}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Vitre
   m_TagString: Untagged
   m_Icon: {fileID: 0}

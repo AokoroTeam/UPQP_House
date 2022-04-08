@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4183502362833941393
 Transform:
@@ -50,7 +50,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &512945727049342178
 Transform:
@@ -59,7 +59,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6213096024733839734}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
@@ -85,7 +85,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9095202329643965565
 Transform:
@@ -111,9 +111,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4183502362833941393}
     m_Modifications:
+    - target: {fileID: 895419111196742477, guid: 4158b68b40db2c14e92c01e8635acaee, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8565807087273437601, guid: 4158b68b40db2c14e92c01e8635acaee, type: 3}
       propertyPath: m_Name
       value: Tableau_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8565807087273437601, guid: 4158b68b40db2c14e92c01e8635acaee, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9048871316962456347, guid: 4158b68b40db2c14e92c01e8635acaee, type: 3}
       propertyPath: m_RootOrder
@@ -173,9 +181,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4183502362833941393}
     m_Modifications:
+    - target: {fileID: 1934881241345688171, guid: 6ae94b037c66a6e40a321b3df7187b84, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6947051991347804295, guid: 6ae94b037c66a6e40a321b3df7187b84, type: 3}
       propertyPath: m_Name
       value: Tableau_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6947051991347804295, guid: 6ae94b037c66a6e40a321b3df7187b84, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7720069532244828733, guid: 6ae94b037c66a6e40a321b3df7187b84, type: 3}
       propertyPath: m_RootOrder
@@ -235,9 +251,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4183502362833941393}
     m_Modifications:
+    - target: {fileID: 3396092352576308141, guid: 58e072a81292a4c4d9ee29df1d1aa8df, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6166464481019164993, guid: 58e072a81292a4c4d9ee29df1d1aa8df, type: 3}
       propertyPath: m_Name
       value: Tableau_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6166464481019164993, guid: 58e072a81292a4c4d9ee29df1d1aa8df, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6834351431311795195, guid: 58e072a81292a4c4d9ee29df1d1aa8df, type: 3}
       propertyPath: m_RootOrder
@@ -297,9 +321,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4183502362833941393}
     m_Modifications:
+    - target: {fileID: 3456753644456247583, guid: a8aa25defba45104fbf1802969fb3eea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6145775053835647987, guid: a8aa25defba45104fbf1802969fb3eea, type: 3}
       propertyPath: m_Name
       value: Tableau_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6145775053835647987, guid: a8aa25defba45104fbf1802969fb3eea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6773973993828704585, guid: a8aa25defba45104fbf1802969fb3eea, type: 3}
       propertyPath: m_RootOrder
@@ -407,6 +439,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bois_2
       objectReference: {fileID: 0}
+    - target: {fileID: 5522964918046778488, guid: 12af5aed6af68fb45a22aca32db2217d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 12af5aed6af68fb45a22aca32db2217d, type: 3}
 --- !u!4 &8769105688368456636 stripped
@@ -424,6 +460,10 @@ PrefabInstance:
     - target: {fileID: 3922782785265956558, guid: b8ff4016ee206ed4d9e77e02fc772fc0, type: 3}
       propertyPath: m_Name
       value: 'Bird '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922782785265956558, guid: b8ff4016ee206ed4d9e77e02fc772fc0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4412215386292563060, guid: b8ff4016ee206ed4d9e77e02fc772fc0, type: 3}
       propertyPath: m_RootOrder
@@ -531,6 +571,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ecran
       objectReference: {fileID: 0}
+    - target: {fileID: 4095382344476839454, guid: c1a2793b3bc63e34e808c79792887b0c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1a2793b3bc63e34e808c79792887b0c, type: 3}
 --- !u!4 &8769105689600250040 stripped
@@ -593,6 +637,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bois
       objectReference: {fileID: 0}
+    - target: {fileID: 715859969529048966, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 806048643927283861, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2431082366591509342, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779311501253393435, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4077008188169210375, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7123629042582611982, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 9212061268689100878, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b80f19bf83d832e408f285dfe2673ade, type: 3}
 --- !u!4 &8769105688947898992 stripped
@@ -610,6 +682,10 @@ PrefabInstance:
     - target: {fileID: 8525722057310556529, guid: bdf2e07753a89d9458ed669da7e6555b, type: 3}
       propertyPath: m_Name
       value: Tableau_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8525722057310556529, guid: bdf2e07753a89d9458ed669da7e6555b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9003107406335490109, guid: bdf2e07753a89d9458ed669da7e6555b, type: 3}
       propertyPath: m_RootOrder
