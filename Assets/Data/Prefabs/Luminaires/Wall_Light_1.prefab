@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 372038024527839977}
   - component: {fileID: 372038024527839983}
   - component: {fileID: 372038024527839982}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 5
-  m_ColorTemperature: 4000
+  m_ColorTemperature: 5761
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 2089292290843467352}
   - component: {fileID: 6177271551781416543}
   - component: {fileID: 8677727398513547570}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 5193364562161065457}
   - component: {fileID: 248797067782662980}
   - component: {fileID: 9094023263683029163}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Socle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -291,7 +291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1875945654001482340}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall_Light_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

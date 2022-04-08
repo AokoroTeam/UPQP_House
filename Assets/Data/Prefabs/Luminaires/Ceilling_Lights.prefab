@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 449102687343511873}
   - component: {fileID: 3115693907820049055}
   - component: {fileID: 2797722741327234328}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 8785473803310962456}
   - component: {fileID: 4624495192918574331}
   - component: {fileID: 2367977412854276475}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lampes_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 6377477750527753134}
   - component: {fileID: 3461387883042629127}
   - component: {fileID: 193790963892882972}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lampes_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -294,7 +294,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1990829131123162394}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ceilling_Lights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 5388136416407049150}
   - component: {fileID: 159736434475830028}
   - component: {fileID: 1610891302293778831}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lampes_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -416,7 +416,7 @@ GameObject:
   - component: {fileID: 1667501227300593457}
   - component: {fileID: 7631919554493198355}
   - component: {fileID: 1856268102858956831}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -531,7 +531,7 @@ GameObject:
   - component: {fileID: 4772226857371887450}
   - component: {fileID: 8732828537989259857}
   - component: {fileID: 8884623739724410419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,7 +646,7 @@ GameObject:
   - component: {fileID: 2651470892910093795}
   - component: {fileID: 6086365966892598375}
   - component: {fileID: 6725035818004268240}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fils
   m_TagString: Untagged
   m_Icon: {fileID: 0}
