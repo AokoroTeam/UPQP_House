@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9173396158211659966}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Mobilier
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -176,7 +176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 82231544830451307, guid: 9d024fa7f7ef9ee4eb558219660421ec, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.384
+      value: -3.52
       objectReference: {fileID: 0}
     - target: {fileID: 82231544830451307, guid: 9d024fa7f7ef9ee4eb558219660421ec, type: 3}
       propertyPath: m_LocalPosition.y
@@ -184,7 +184,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 82231544830451307, guid: 9d024fa7f7ef9ee4eb558219660421ec, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.259
+      value: -1.292
       objectReference: {fileID: 0}
     - target: {fileID: 82231544830451307, guid: 9d024fa7f7ef9ee4eb558219660421ec, type: 3}
       propertyPath: m_LocalRotation.w
@@ -242,7 +242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3909461102465460028, guid: 59ce1bf7efad4cb4397a770a462ede97, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.775
+      value: -0.715
       objectReference: {fileID: 0}
     - target: {fileID: 3909461102465460028, guid: 59ce1bf7efad4cb4397a770a462ede97, type: 3}
       propertyPath: m_LocalRotation.w
