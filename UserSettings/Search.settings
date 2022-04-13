@@ -1,6 +1,6 @@
 trackSelection = true
 fetchPreview = true
-wantsMore = false
+wantsMore = true
 keepOpen = false
 queryFolder = "Assets"
 onBoardingDoNotAskAgain = true
@@ -16,6 +16,12 @@ scopes = {
 	"last_search.83F126EB" = "record"
 	"OpenInspectorPreview.83F126EB" = "0"
 	"currentGroup.83F126EB" = "menu"
+	"last_search.9440E7BB" = ""
+	"OpenInspectorPreview.9440E7BB" = "0"
+	"currentGroup.9440E7BB" = "all"
+	"last_search.8440E7BB" = "t:prefab"
+	"OpenInspectorPreview.8440E7BB" = "0"
+	"currentGroup.8440E7BB" = "scene"
 }
 providers = {
 	adb = {
@@ -63,8 +69,35 @@ providers = {
 		priority = 100
 		defaultAction = null
 	}
+	menu = {
+		active = true
+		priority = 80
+		defaultAction = null
+	}
+	settings = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	help = {
+		active = true
+		priority = -1
+		defaultAction = null
+	}
+	calculator = {
+		active = true
+		priority = 10
+		defaultAction = null
+	}
+	static_methods = {
+		active = true
+		priority = 85
+		defaultAction = null
+	}
 }
 recentSearches = [
+	"t"
+	"p: prefab:root"
 ]
 searchItemFavorites = [
 ]
