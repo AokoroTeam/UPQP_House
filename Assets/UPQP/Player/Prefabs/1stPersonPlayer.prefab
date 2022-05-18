@@ -37,15 +37,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_VerticalAxis.Value
-      value: 55.081905
+      value: 0.67159975
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_HorizontalAxis.Value
-      value: -11.019455
+      value: 1.3878632
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_VerticalAxis.m_MaxSpeed
-      value: 0.03
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_VerticalAxis.m_SpeedMode
@@ -53,7 +53,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_HorizontalAxis.m_MaxSpeed
-      value: 0.03
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_HorizontalAxis.m_DecelTime
@@ -65,11 +65,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_VerticalAxis.m_InputAxisValue
-      value: -36
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_HorizontalAxis.m_InputAxisValue
-      value: -2
+      value: -2.75
       objectReference: {fileID: 0}
     - target: {fileID: 819279860, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
@@ -97,19 +97,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8825841
+      value: 0.9999095
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.46024624
+      value: 0.00586035
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.08513441
+      value: 0.012110887
       objectReference: {fileID: 0}
     - target: {fileID: 1853135963, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.044395536
+      value: -0.00007098046
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_LookAt
@@ -121,7 +121,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.5936073
+      value: 1.0266666
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.size

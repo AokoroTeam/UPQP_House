@@ -96,6 +96,8 @@ providers = {
 	}
 }
 recentSearches = [
+	"t:mesh Fauteuil_0_LOD_1"
+	"t:mesh Fauteuil_0_LOD_0"
 	"t"
 	"p: prefab:root"
 ]
